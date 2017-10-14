@@ -4,15 +4,15 @@ description: 'A portal for sharing Machine Learning Knowledge'
 url: 'www.studyml.in'
 baseurl: ''
 # google_analytics: 'UA-XXXXXX-X'
-# disqus_shortname: 'your-disqus-name'
+disqus_shortname: 'VikasJ'
 
 author:
   name: 'Vikas Jain'
   email: vikasjain081291@live.comp
   twitter_username: vikasja_in
-  facebook_username: joshgerdes
+  facebook_username: vikasjain91
   github_username:  jainvikas
-  linkedin_username:  joshgerdes
+  linkedin_username:  vikasjain91
 
 defaults:
   -
