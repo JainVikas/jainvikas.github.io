@@ -1,13 +1,10 @@
 ---
-title:  "And so it begins, Welcome to StudyML portal!"
-date:   2017-10-28 15:04:23
+title:  "Welcome to Jekyll"
+date:   2016-01-16 15:04:23
 categories: [jekyll]
 tags: [jekyll]
 ---
-Hi all,
-
-Thanks for coming here, i hope you have liked the FB page as well.
-
+This is an introduction page.
 Jekyll also offers powerful support for code snippets:
 
 ``` ruby
