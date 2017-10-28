@@ -1,6 +1,6 @@
 ---
 title:  "And so it begins, Welcome to StudyML portal!"
-date:   2017-10-28 
+date:   2017-10-28 15:04:23
 categories: [Machine Learning]
 tags: [Machine Learning, Data Science
 ---
