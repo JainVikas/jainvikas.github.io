@@ -1,8 +1,8 @@
 ---
-title:  "Welcome to StudyML"
+title:  "Welcome to StudyML portal"
 date:   2016-01-16 15:04:23
 categories: [Machine Learning]
-tags: [Machine Learning, Data Science
+tags: [Machine Learning, Data Science]
 ---
 Hi all,
 
